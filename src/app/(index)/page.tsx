@@ -39,7 +39,7 @@ export default async function Home() {
       >
         <div className="flex flex-row items-center justify-center tracking-normal">
           <Image
-            src="https://www.stream.gift/logo.svg"
+            src="https://www.stream.gift/images/logo.svg"
             alt="stream.gift logo"
             width={16}
             height={16}
@@ -64,7 +64,7 @@ export default async function Home() {
           <div className="h-full justify-center items-center p-5 lg:p-20 space-y-4 lg:space-y-6">
             <div className="flex items-center">
               <Image
-                src="https://www.stream.gift/logo.svg"
+                src="https://www.stream.gift/images/logo.svg"
                 alt="stream.gift logo"
                 width={36}
                 height={36}
@@ -84,7 +84,7 @@ export default async function Home() {
                 target="_blank"
               >
                 <Image
-                  src="https://www.stream.gift/logo.svg"
+                  src="https://www.stream.gift/images/logo.svg"
                   alt="stream.gift logo"
                   width={16}
                   height={16}

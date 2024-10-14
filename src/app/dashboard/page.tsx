@@ -44,7 +44,7 @@ export default async function Dashboard() {
         <div className="container flex justify-between items-center">
           <div className="flex items-center">
             <Image
-              src="https://www.stream.gift/logo.svg"
+              src="https://www.stream.gift/images/logo.svg"
               alt="stream.gift logo"
               width={24}
               height={24}

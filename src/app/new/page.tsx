@@ -37,7 +37,7 @@ export default async function Home() {
           <div className="h-full flex flex-col justify-center items-center text-center lg:p-20 lg:space-y-5">
             <div className="flex items-center">
               <Image
-                src="https://www.stream.gift/logo.svg"
+                src="https://www.stream.gift/images/logo.svg"
                 alt="stream.gift logo"
                 width={40}
                 height={40}
@@ -57,7 +57,7 @@ export default async function Home() {
                 target="_blank"
               >
                 <Image
-                  src="https://www.stream.gift/logo.svg"
+                  src="https://www.stream.gift/images/logo.svg"
                   alt="stream.gift logo"
                   width={16}
                   height={16}

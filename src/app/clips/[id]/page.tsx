@@ -83,7 +83,7 @@ export default async function Clips({ params }: { params: { id: string } }) {
             <Link href={session?.user ? "/dashboard" : "/"}>
               <div className="flex items-center">
                 <Image
-                  src="https://www.stream.gift/logo.svg"
+                  src="https://www.stream.gift/images/logo.svg"
                   alt="stream.gift logo"
                   width={32}
                   height={32}
