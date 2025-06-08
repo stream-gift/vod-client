@@ -39,7 +39,7 @@ export default async function Home() {
       >
         <div className="flex flex-row items-center justify-center tracking-normal">
           <Image
-            src="https://www.stream.gift/images/logo.svg"
+            src="https://alpha.stream.gift/logo.svg"
             alt="stream.gift logo"
             width={16}
             height={16}
