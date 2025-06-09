@@ -44,7 +44,7 @@ export default async function Dashboard() {
         <div className="container flex justify-between items-center">
           <div className="flex items-center">
             <Image
-              src="https://www.stream.gift/images/logo.svg"
+              src="./logo.svg"
               alt="stream.gift logo"
               width={24}
               height={24}
@@ -119,7 +119,7 @@ export default async function Dashboard() {
                   <div className="p-4 py-6 text-white flex flex-col items-start justify-center space-y-4">
                     <div className="flex items-center gap-2">
                       <Image
-                        src="https://stream.gift/logo.svg"
+                        src="./logo.svg"
                         alt="stream.gift logo"
                         width={24}
                         height={24}

@@ -83,7 +83,7 @@ export default async function Clips({ params }: { params: { id: string } }) {
             <Link href={session?.user ? "/dashboard" : "/"}>
               <div className="flex items-center">
                 <Image
-                  src="https://www.stream.gift/images/logo.svg"
+                  src="./logo.svg"
                   alt="stream.gift logo"
                   width={32}
                   height={32}
@@ -142,7 +142,7 @@ export default async function Clips({ params }: { params: { id: string } }) {
                     className="flex items-center gap-1 text-[#27cdd5]"
                   >
                     <Image
-                      src="https://stream.gift/logo.svg"
+                      src="./logo.svg"
                       alt="stream.gift logo"
                       width={20}
                       height={20}
@@ -185,7 +185,7 @@ export default async function Clips({ params }: { params: { id: string } }) {
                 <div className="p-4 py-6 text-white flex flex-col items-start justify-center space-y-4">
                   <div className="flex items-center gap-2">
                     <Image
-                      src="https://stream.gift/logo.svg"
+                      src="./logo.svg"
                       alt="stream.gift logo"
                       width={24}
                       height={24}
